@@ -1,0 +1,29 @@
+    h1 {
+        text-shadow: 2px 2px lightgrey;
+        border: 2px solid lightblue;
+        border-radius: 15px;
+        }
+        
+    p.a {
+        font-family: Verdana, Geneva, sans-serif;
+    }
+
+    p.b {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .container {
+        position: relative;
+        text-align: left;
+        color: white;
+    }
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        transform: translate(-50%, -50%);
+    }
+
+    img.a  {
+        float: right;
+    }
