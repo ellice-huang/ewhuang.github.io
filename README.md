@@ -1,2 +1,2 @@
-# ewhuang-1925682.github.io
+# ewhuang.github.io
 Info 101 Stuff
